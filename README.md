@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I'm a Cloud Administrator with a passion for building and securing scalable cloud solutions. With experience in Web Development and Quality Assurance, I bridge the gap between infrastructure, application performance, and security. 🚀 I specialize in Azure Cloud Administration, ensuring high availability, security, and automation in cloud environments. 💻 I also work with modern web technologies and testing frameworks to deliver robust applications. 📈 Always learning and exploring new technologies to enhance cloud efficiency and performance. Let's connect and collaborate! 🚀</h3>
+<h3 align="center">
+  I'm a <b>Cloud Administrator</b> passionate about building secure and scalable cloud solutions.<br>  
+  With expertise in <b>Azure Cloud Administration</b>, Web Development, and Quality Assurance,  
+  I ensure high availability, security, and automation.<br>  
+  Always learning and exploring new technologies to enhance cloud efficiency.<br>  
+  Let's connect and collaborate! 🚀  
+</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufsholotan" alt="yusufsholotan" /></a> </p>
 
