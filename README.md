@@ -1,4 +1,4 @@
-<h1 align="center">HEllo 👋, I'm Yusuf</h1>
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">
   I'm a <b>Cloud Administrator</b> passionate about building secure and scalable cloud solutions.<br>  
   With expertise in <b>Azure Cloud Administration</b>, Web Development, and Quality Assurance,  
